@@ -1,0 +1,11 @@
+/venv
+venv/
+*.keras
+*.h5
+__pycache__/
+AffectNet/
+FacialExpressionDS/
+raf_db/
+faces/
+face_example_gap/
+final_images/
